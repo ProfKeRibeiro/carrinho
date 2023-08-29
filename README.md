@@ -16,3 +16,4 @@ Este repositório contém um projeto de carrossel de imagens para que os alunos 
 6. **Função renderizaCarrinho():** Esta função é usada para renderizar uma lista de itens de carrinho na página. A função usa a estrutura de repetição for para percorrer o objeto carrinhoItens e renderizar um elemento .carrinho_compra para cada item de carrinho.
 7. **Função renderizaItemCarrinho():** Esta função é usada para renderizar um único item de carrinho na página. A função recebe como argumento um objeto item de carrinho e retorna um elemento `.carrinho
 8.  **estrutura de repetição - For:**  Esta estrutura de repetição é usada para percorrer uma coleção de elementos. No caso deste projeto, é usada para percorrer o array de produtos e renderizar uma lista de itens de carrinho para cada produto.
+9.  aaaaa
